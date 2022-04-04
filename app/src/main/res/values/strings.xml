@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="retry">Retry</string>
+    <string name="no_results_found_for_this_query">No Data Found</string>
+</resources>
